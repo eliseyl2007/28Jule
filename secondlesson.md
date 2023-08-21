@@ -9,4 +9,4 @@ new code
 there info frim main
 I am old senior from vetka 2
 
-There is info
+There is info and problem
