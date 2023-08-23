@@ -9,5 +9,8 @@ new code
 there info frim main
 I am old senior from vetka 2
 
-there is info
-There is info and problem
+new code from some jun
+
+there is info from main branch
+
+Hello from githab!
